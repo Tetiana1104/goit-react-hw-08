@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0;
+}
+
+.left {
+  display: flex;
+  gap: 15px;
+}
+
+.right {
+  display: flex;
+  gap: 15px;
+}
+
+a {
+  font-weight: bold;
+
+  color: rgb(61, 61, 60);
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0e5fb6;
+}

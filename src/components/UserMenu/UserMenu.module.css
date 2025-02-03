@@ -1,0 +1,19 @@
+.userMenu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+button {
+  cursor: pointer;
+  padding: 6px 30px;
+  background-color: #f8f9fa;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #6aa5e4;
+  color: white;
+}
